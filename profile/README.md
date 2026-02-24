@@ -1,5 +1,3 @@
-Berikut contoh **README.md** untuk proyek/organisasi **Tenin Group – Penyedia Layanan** yang bisa langsung Anda gunakan atau sesuaikan:
-
 ---
 
 # TENIN GROUP
