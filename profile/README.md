@@ -1,12 +1,75 @@
-## Hi there 👋
+Berikut contoh **README.md** untuk proyek/organisasi **Tenin Group – Penyedia Layanan** yang bisa langsung Anda gunakan atau sesuaikan:
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+# TENIN GROUP
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Penyedia Layanan Profesional & Terpercaya
+
+**Tenin Group** adalah perusahaan penyedia layanan profesional yang berkomitmen memberikan solusi terbaik, efisien, dan berkualitas untuk kebutuhan individu, UMKM, maupun perusahaan.
+
+---
+
+## 📌 Tentang Kami
+
+Tenin Group hadir sebagai mitra strategis yang membantu klien dalam berbagai kebutuhan layanan dengan fokus pada:
+
+* ✅ Kualitas pekerjaan
+* ✅ Ketepatan waktu
+* ✅ Profesionalisme tim
+* ✅ Kepuasan pelanggan
+
+Kami percaya bahwa pelayanan yang baik bukan hanya soal hasil, tetapi juga soal proses dan komunikasi.
+
+---
+
+## 🚀 Layanan Kami
+
+Berikut beberapa layanan yang kami sediakan:
+
+* 🔹 Konsultasi & Manajemen Proyek
+* 🔹 Pengembangan Sistem & Aplikasi
+* 🔹 Desain & Branding
+* 🔹 Jasa Administrasi & Dokumentasi
+* 🔹 Layanan Teknis & Operasional
+
+> *Layanan dapat disesuaikan dengan kebutuhan klien.*
+
+---
+
+## 🎯 Visi
+
+Menjadi perusahaan penyedia layanan terpercaya dan profesional yang mampu bersaing secara nasional.
+
+## 🎯 Misi
+
+* Memberikan layanan berkualitas tinggi
+* Menjaga integritas dan profesionalisme
+* Mengutamakan kepuasan pelanggan
+* Mengembangkan inovasi berkelanjutan
+
+---
+
+## 💼 Target Klien
+
+* Perusahaan Swasta
+* Instansi Pemerintah
+* UMKM
+* Individu / Profesional
+
+---
+
+## 🤝 Mengapa Memilih Tenin Group?
+
+* Berpengalaman & Profesional
+* Respons Cepat
+* Harga Kompetitif
+* Support & Maintenance Berkelanjutan
+
+---
+
+## 📝 Lisensi
+
+© 2026 Tenin Group. Seluruh hak cipta dilindungi.
+
+---
